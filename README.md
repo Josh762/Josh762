@@ -1,12 +1,9 @@
-### Hi there 👋
+### Hi, I'm Josh 👋
 
+- 🔭 I’m currently working on A project management app
+- 🌱 I’m currently learning Go, Angular, and Deno
+- 🌟 2020 Goals: Build some interesting projects and contribute to open source
 <!--
-**Josh762/Josh762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
