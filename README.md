@@ -1,6 +1,6 @@
 ### Hi, I'm Josh 👋
 
-- 🔭 I’m currently working on A project management app
+- 🔭 I’m currently working on a project management app
 - 🌱 I’m currently learning Go, Angular, and Deno
 - 🌟 2020 Goals: Build some interesting projects and contribute to open source
 <!--
@@ -11,3 +11,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=josh762&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
