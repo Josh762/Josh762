@@ -28,9 +28,6 @@ I'm a Software Engineer and aspiring entrepreneur
 </br>
 </br>
 
-[![Josh's github stats](https://github-readme-stats.vercel.app/api?username=josh762&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <figure>
   <img src="https://github-readme-stats.vercel.app/api?username=josh762&show_icons=true&theme=highcontrast"/>
   <figcaption><p>Stats widget by <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><p></figcaption>
