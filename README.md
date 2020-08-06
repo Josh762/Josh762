@@ -1,5 +1,5 @@
 ### Hi, I'm Josh 👋
-I'm a Software Engineer and aspiring entrepreneur
+I'm a Software Engineer
 
 - 🔭 I’m currently working on a project management app
 - 🌱 I’m currently learning Go, Angular, and Deno
